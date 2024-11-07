@@ -1,0 +1,135 @@
+New York,31.74
+Los Angeles,-22.43
+Chicago,17.94
+Houston,38.52
+Phoenix,36.41
+Philadelphia,48.91
+San Antonio,30.35
+San Diego,6.59
+Dallas,-28.41
+San Jose,-15.05
+Austin,33.20
+Jacksonville,47.94
+San Francisco,-0.76
+Indianapolis,38.69
+Columbus,20.56
+Fort Worth,-21.83
+Charlotte,0.09
+Seattle,32.91
+Denver,49.79
+El Paso,-19.13
+Detroit,-28.57
+Washington,-28.06
+Boston,49.59
+Memphis,-16.55
+Nashville,-9.79
+Portland,-5.91
+Oklahoma City,-16.50
+Las Vegas,-3.62
+Baltimore,-15.79
+Louisville,5.22
+Milwaukee,43.14
+Albuquerque,-26.79
+Tucson,44.20
+Fresno,-18.33
+Sacramento,-7.66
+Mesa,-0.24
+Kansas City,-16.65
+Atlanta,-24.34
+Long Beach,-24.18
+Colorado Springs,-20.51
+Raleigh,34.74
+Miami,23.48
+Virginia Beach,16.19
+Omaha,16.67
+Oakland,12.48
+Minneapolis,-22.46
+Tulsa,10.48
+Arlington,8.40
+Tampa,3.34
+New Orleans,30.67
+Wichita,2.59
+Cleveland,-28.29
+Bakersfield,24.65
+Aurora,34.79
+Anaheim,27.59
+Honolulu,23.66
+Santa Ana,39.48
+Riverside,-14.64
+Corpus Christi,-23.29
+Lexington,16.84
+Stockton,6.25
+Henderson,33.15
+Saint Paul,-27.36
+St. Louis,32.59
+Cincinnati,14.35
+Pittsburgh,-9.13
+Greensboro,26.38
+Anchorage,16.28
+Plano,-21.86
+Lincoln,26.10
+Orlando,-16.55
+Irvine,21.12
+Newark,27.40
+Toledo,2.63
+Durham,8.14
+Chula Vista,-2.24
+Fort Wayne,-3.65
+Jersey City,7.58
+St. Petersburg,-4.52
+Laredo,12.56
+Madison,-10.92
+Chandler,-21.10
+Buffalo,25.97
+Lubbock,44.09
+Scottsdale,30.81
+Reno,-15.98
+Glendale,-21.40
+Gilbert,16.12
+Winston�Salem,45.29
+North Las Vegas,-24.43
+Norfolk,12.98
+Chesapeake,-29.69
+Garland,38.15
+Irving,48.36
+Hialeah,-15.87
+Fremont,-18.08
+Boise,2.53
+Richmond,-13.68
+Baton Rouge,47.99
+Spokane,32.60
+Des Moines,39.96
+Tacoma,-9.38
+San Bernardino,-5.74
+Modesto,-22.98
+Fontana,45.12
+Santa Clarita,-5.02
+Birmingham,-17.60
+Oxnard,39.77
+Fayetteville,38.75
+Moreno Valley,31.75
+Rochester,36.59
+Glendale,-23.93
+Huntington Beach,-21.44
+Salt Lake City,44.08
+Grand Rapids,-3.19
+Amarillo,-2.95
+Yonkers,46.03
+Aurora,16.32
+Montgomery,27.44
+Akron,16.67
+Little Rock,46.60
+Huntsville,22.13
+Augusta,16.11
+Port St. Lucie,32.79
+Grand Prairie,-20.06
+Columbus,2.32
+Tallahassee,15.16
+Overland Park,45.09
+Tempe,23.23
+McKinney,26.86
+Mobile,34.49
+Cape Coral,2.25
+Shreveport,45.18
+Frisco,45.39
+Knoxville,-9.54

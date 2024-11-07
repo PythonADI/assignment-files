@@ -1,0 +1,1000 @@
+Mesa,36.11
+Mesa,34.46
+Akron,-9.52
+Fort Worth,26.62
+Long Beach,30.27
+Detroit,-18.34
+Oxnard,8.78
+Knoxville,20.49
+Minneapolis,-20.09
+Henderson,27.93
+Columbus,-17.65
+Charlotte,25.25
+Mobile,26.84
+Phoenix,-16.34
+San Diego,-7.46
+Glendale,-12.09
+Jersey City,17.53
+Oxnard,-7.13
+Tacoma,34.13
+Grand Rapids,32.95
+San Diego,-27.48
+Milwaukee,29.96
+San Antonio,22.61
+Mesa,-4.59
+Santa Ana,42.04
+Albuquerque,-11.75
+Fresno,38.53
+Washington,2.54
+Gilbert,-16.46
+Winston–Salem,1.55
+New York,-23.78
+Miami,23.04
+Arlington,9.73
+Amarillo,19.83
+Portland,-1.24
+Richmond,12.61
+Fresno,26.43
+Stockton,46.26
+Glendale,-7.94
+Aurora,19.99
+North Las Vegas,-28.95
+Glendale,-29.17
+Buffalo,-10.74
+Las Vegas,39.50
+Riverside,-12.03
+Lubbock,-21.26
+Portland,-21.80
+Birmingham,39.67
+Kansas City,32.31
+Winston–Salem,3.80
+Aurora,45.33
+Madison,3.61
+Aurora,49.63
+Grand Prairie,-21.56
+Little Rock,36.95
+Long Beach,-23.54
+St. Petersburg,-5.44
+Augusta,11.55
+Mobile,2.22
+Baltimore,19.14
+Aurora,-23.03
+Memphis,-18.06
+Santa Clarita,-19.71
+Aurora,1.15
+Grand Rapids,15.04
+New Orleans,14.65
+Long Beach,46.79
+Boise,0.83
+Albuquerque,5.34
+Memphis,-20.25
+San Francisco,17.98
+Little Rock,18.72
+Orlando,33.03
+Tampa,32.90
+Chesapeake,18.72
+Fremont,38.93
+Boise,-8.19
+Chesapeake,36.38
+Birmingham,35.84
+San Francisco,-23.18
+Laredo,-27.20
+Amarillo,-1.21
+Minneapolis,36.21
+Sacramento,-10.71
+Akron,28.41
+Minneapolis,-25.73
+Seattle,29.64
+Boston,-15.27
+Laredo,-28.07
+Tulsa,-2.53
+San Bernardino,4.88
+Montgomery,-1.92
+Fontana,5.52
+Birmingham,30.23
+Cape Coral,16.18
+Boise,48.16
+Tampa,42.52
+Washington,47.72
+Columbus,8.56
+Los Angeles,-16.09
+Little Rock,30.02
+Hialeah,-5.08
+Long Beach,1.82
+Denver,9.04
+Lubbock,-12.53
+Pittsburgh,16.55
+Scottsdale,-20.67
+San Jose,15.41
+Boise,16.92
+Anaheim,49.49
+Louisville,37.62
+Glendale,-26.22
+Spokane,16.94
+Miami,40.26
+Philadelphia,44.00
+Grand Rapids,30.23
+Hialeah,1.38
+Dallas,-1.72
+Jacksonville,3.92
+Akron,-28.18
+San Bernardino,-9.72
+Aurora,-14.48
+Cleveland,-23.53
+New York,-17.19
+Washington,-21.41
+Plano,12.82
+Omaha,15.62
+Baton Rouge,-28.44
+Indianapolis,45.72
+Richmond,-3.12
+Atlanta,31.42
+Akron,-27.39
+Jersey City,10.56
+Yonkers,1.22
+Nashville,36.63
+Little Rock,-4.56
+Philadelphia,26.41
+Virginia Beach,-4.42
+Jersey City,48.20
+Corpus Christi,4.87
+Colorado Springs,23.28
+Richmond,-4.23
+Corpus Christi,16.85
+Spokane,20.77
+Spokane,26.53
+Dallas,21.56
+Laredo,40.94
+San Diego,16.88
+Montgomery,30.75
+Modesto,13.95
+Colorado Springs,11.13
+Austin,-22.86
+San Bernardino,12.33
+Buffalo,19.72
+Aurora,41.15
+New Orleans,-1.43
+Denver,20.97
+Houston,25.95
+Fresno,1.78
+New York,3.39
+San Antonio,9.90
+Santa Clarita,-2.29
+Bakersfield,-11.62
+McKinney,27.60
+San Antonio,20.61
+Portland,15.57
+Los Angeles,2.80
+Spokane,6.43
+Mobile,45.26
+Houston,-18.98
+Knoxville,48.39
+Cape Coral,9.89
+Greensboro,26.42
+Fort Wayne,2.33
+Jacksonville,16.45
+San Diego,38.80
+Nashville,-26.73
+San Francisco,-5.09
+Oxnard,26.55
+Kansas City,-16.18
+Nashville,24.52
+Miami,48.32
+Indianapolis,46.37
+Shreveport,47.69
+Stockton,-21.24
+Pittsburgh,1.67
+Albuquerque,5.94
+Jacksonville,34.70
+Shreveport,30.79
+Washington,21.24
+Fremont,22.06
+Portland,48.96
+Jersey City,-15.43
+New Orleans,35.63
+Fayetteville,-5.65
+Austin,21.07
+Grand Rapids,27.94
+Honolulu,-22.02
+Yonkers,36.96
+McKinney,-1.08
+Orlando,49.55
+Yonkers,43.84
+Madison,-19.29
+Reno,35.88
+Plano,-7.48
+Fontana,34.54
+Montgomery,44.15
+Colorado Springs,16.23
+Santa Ana,47.51
+Newark,16.68
+Irving,-26.28
+Yonkers,-25.46
+North Las Vegas,41.45
+Baton Rouge,17.09
+Oakland,16.11
+Charlotte,44.04
+Tacoma,11.99
+Grand Prairie,-14.58
+Santa Clarita,42.02
+Lexington,-29.33
+Anaheim,20.65
+Glendale,-20.55
+Los Angeles,-18.38
+Tacoma,-16.67
+Birmingham,-18.30
+Oakland,46.74
+Los Angeles,0.95
+Knoxville,-24.36
+Grand Rapids,35.00
+Port St. Lucie,-16.73
+Tulsa,-3.43
+Tucson,-4.63
+Akron,42.05
+Lubbock,32.35
+Baltimore,-29.49
+Richmond,-15.21
+Tucson,48.15
+San Bernardino,-29.39
+North Las Vegas,-15.64
+Tempe,26.26
+San Diego,-26.74
+Orlando,4.30
+Fayetteville,1.90
+Baton Rouge,28.23
+Tulsa,-14.80
+Santa Ana,4.90
+Corpus Christi,36.03
+Arlington,-16.46
+McKinney,14.35
+Saint Paul,9.14
+Detroit,45.29
+Washington,48.94
+Cape Coral,27.16
+Nashville,29.29
+St. Louis,-18.14
+Colorado Springs,9.10
+Chesapeake,-21.42
+Phoenix,47.11
+New York,-4.40
+San Diego,-13.57
+Milwaukee,2.21
+North Las Vegas,-8.87
+Cape Coral,26.03
+Cleveland,45.67
+Memphis,10.44
+Shreveport,32.04
+Stockton,37.80
+Charlotte,-8.05
+Columbus,-3.38
+Santa Clarita,37.20
+Irving,-2.35
+Indianapolis,19.30
+Arlington,-19.27
+Irvine,20.00
+Chandler,4.21
+Fort Worth,-28.87
+Toledo,26.22
+Indianapolis,23.16
+Columbus,43.48
+Atlanta,38.59
+Laredo,-26.78
+Dallas,39.17
+Washington,4.65
+Glendale,34.38
+Oakland,33.93
+Montgomery,-29.48
+Tempe,40.10
+Tampa,0.02
+Jersey City,18.91
+Plano,40.48
+Henderson,9.76
+Greensboro,-19.43
+Oakland,-10.47
+Austin,22.43
+Baton Rouge,-28.27
+Stockton,46.58
+Tempe,14.77
+Garland,23.60
+Phoenix,35.33
+San Jose,35.52
+Overland Park,21.77
+Arlington,34.38
+Mobile,-10.06
+Mesa,-26.06
+Little Rock,23.18
+Augusta,28.83
+Amarillo,-1.83
+Portland,-26.30
+Toledo,12.99
+Reno,-14.51
+Greensboro,8.23
+Oklahoma City,-5.93
+Modesto,-6.71
+Arlington,10.28
+Jacksonville,36.79
+Phoenix,-12.83
+El Paso,10.99
+Amarillo,-13.53
+Tulsa,2.07
+Arlington,-11.27
+Fremont,43.30
+Seattle,15.56
+New Orleans,-9.81
+Huntsville,28.83
+Shreveport,-6.68
+Knoxville,-1.06
+Albuquerque,12.76
+Fort Worth,23.37
+Chandler,28.66
+Garland,18.30
+Modesto,-23.01
+Anaheim,30.80
+Oxnard,-10.75
+Knoxville,15.19
+Cape Coral,26.32
+Jacksonville,-21.79
+North Las Vegas,16.64
+Shreveport,3.32
+Boston,-20.98
+Phoenix,-5.84
+Chandler,13.24
+Chula Vista,-11.52
+Long Beach,18.94
+Frisco,19.48
+Cincinnati,-18.41
+Jacksonville,22.37
+Philadelphia,-23.76
+Glendale,47.15
+Modesto,45.68
+Jacksonville,16.71
+Jacksonville,-16.24
+Little Rock,25.48
+Colorado Springs,34.07
+Sacramento,32.56
+Columbus,6.99
+Bakersfield,-15.54
+Anaheim,-1.89
+Virginia Beach,18.63
+Wichita,34.28
+Laredo,-8.74
+Richmond,30.61
+Washington,13.40
+Montgomery,-26.64
+Anaheim,-24.54
+Seattle,-17.76
+Corpus Christi,-15.56
+St. Louis,4.89
+Huntington Beach,40.63
+New York,-15.29
+Port St. Lucie,11.12
+El Paso,-25.10
+Winston–Salem,-1.70
+San Francisco,15.03
+St. Louis,42.25
+Milwaukee,20.93
+Baton Rouge,9.17
+Akron,-28.71
+Milwaukee,4.74
+Knoxville,-13.73
+Honolulu,17.98
+Anchorage,24.55
+Denver,38.18
+Grand Prairie,-29.72
+Tempe,32.70
+Nashville,-24.34
+Jacksonville,-16.80
+Tulsa,22.21
+Chicago,49.29
+Cape Coral,12.94
+Corpus Christi,16.34
+Anchorage,-3.04
+Frisco,-19.16
+Grand Rapids,27.36
+Minneapolis,-6.94
+Orlando,-21.72
+Sacramento,-16.47
+Buffalo,35.58
+Reno,-14.96
+Toledo,-5.38
+Tacoma,17.45
+Laredo,-15.15
+Fresno,37.10
+Washington,5.13
+Laredo,13.84
+Fort Worth,40.48
+Fontana,-28.57
+Kansas City,-30.00
+Glendale,-11.92
+Boston,39.39
+Mobile,10.64
+Irving,-26.16
+Lincoln,30.90
+Saint Paul,10.41
+Durham,-7.28
+Grand Rapids,17.22
+Memphis,-7.33
+Winston–Salem,34.42
+Fresno,-7.73
+Fort Worth,45.64
+Aurora,1.07
+Spokane,0.54
+New York,5.40
+Portland,21.60
+Saint Paul,49.51
+Chicago,22.37
+Washington,48.79
+Toledo,-2.53
+Des Moines,15.71
+Toledo,-16.35
+Louisville,-6.08
+Miami,6.57
+Chesapeake,1.09
+Anchorage,-10.45
+Grand Prairie,32.46
+Riverside,4.31
+Pittsburgh,34.68
+Austin,14.89
+Arlington,-25.73
+Knoxville,48.16
+Winston–Salem,12.53
+Moreno Valley,-12.24
+San Bernardino,17.96
+Aurora,-26.04
+Chandler,22.80
+Virginia Beach,-29.90
+Chesapeake,10.84
+Buffalo,-4.36
+Detroit,28.49
+Newark,-25.69
+North Las Vegas,38.76
+Chicago,46.98
+Tacoma,36.29
+Irving,37.11
+Plano,-19.88
+El Paso,18.74
+Wichita,-8.65
+Richmond,42.23
+Atlanta,44.07
+Garland,41.53
+Nashville,-12.70
+Milwaukee,-4.07
+Grand Prairie,6.60
+Oakland,-14.74
+Salt Lake City,5.37
+Grand Rapids,32.95
+Bakersfield,42.32
+Mesa,-13.68
+San Francisco,22.70
+Greensboro,25.07
+Scottsdale,40.57
+El Paso,32.10
+Fort Wayne,39.62
+Oakland,11.64
+Glendale,36.78
+Indianapolis,-3.25
+San Antonio,31.67
+Montgomery,5.96
+Las Vegas,-25.98
+Baton Rouge,39.27
+Fremont,-27.85
+Saint Paul,22.99
+Glendale,-21.12
+Amarillo,-22.23
+Los Angeles,46.92
+Tucson,-18.79
+Tulsa,46.09
+Little Rock,8.94
+Boise,1.14
+Sacramento,46.25
+Salt Lake City,17.24
+Seattle,41.71
+Corpus Christi,32.14
+Pittsburgh,-6.12
+Chula Vista,6.92
+Plano,-18.51
+Los Angeles,22.50
+Jersey City,27.27
+Colorado Springs,5.31
+Portland,29.33
+Dallas,21.27
+Long Beach,1.76
+Madison,36.52
+Irvine,37.79
+Madison,27.32
+Gilbert,-21.79
+San Bernardino,42.71
+Irving,22.28
+St. Petersburg,-8.50
+Grand Rapids,47.92
+Norfolk,27.24
+Columbus,3.35
+Norfolk,37.50
+Mobile,-9.62
+Tacoma,-8.54
+Richmond,-8.27
+Lincoln,-8.42
+Tulsa,-3.32
+St. Petersburg,19.69
+Montgomery,-10.34
+Anaheim,38.23
+El Paso,-12.68
+Newark,-21.14
+Newark,6.83
+Spokane,32.32
+Sacramento,24.39
+Indianapolis,9.92
+Augusta,2.51
+Minneapolis,5.50
+Santa Ana,25.28
+Hialeah,16.02
+Huntsville,12.72
+Mobile,-23.32
+Colorado Springs,-14.00
+Oxnard,-12.11
+Gilbert,-23.17
+Chandler,44.18
+Boston,30.08
+Fort Wayne,45.57
+Buffalo,-20.16
+Fremont,28.72
+Des Moines,-29.31
+Arlington,48.43
+Fremont,27.61
+Henderson,47.03
+Grand Rapids,19.57
+Reno,-13.56
+Mesa,-15.83
+San Diego,25.29
+Memphis,-13.03
+North Las Vegas,21.81
+Gilbert,24.18
+Sacramento,21.94
+Detroit,-3.11
+Oxnard,16.90
+Houston,19.65
+Mesa,15.34
+Corpus Christi,11.80
+Colorado Springs,35.82
+Indianapolis,-19.57
+Chicago,4.12
+New Orleans,12.00
+Fort Worth,10.68
+Wichita,-10.22
+Tulsa,10.06
+Los Angeles,-15.46
+Winston–Salem,12.20
+Raleigh,-15.84
+Jersey City,29.81
+Charlotte,-16.10
+McKinney,-10.73
+Henderson,43.45
+Madison,9.32
+Minneapolis,14.97
+Salt Lake City,41.37
+Pittsburgh,7.55
+Boise,24.70
+Mobile,-2.64
+Grand Rapids,39.38
+Indianapolis,-14.39
+Plano,7.93
+Grand Rapids,-26.01
+Gilbert,46.29
+Bakersfield,-9.73
+Scottsdale,-4.60
+Virginia Beach,43.55
+Lubbock,-8.94
+Fontana,-16.36
+Columbus,21.36
+Long Beach,48.52
+Detroit,-20.77
+Gilbert,40.01
+Phoenix,-18.63
+Madison,36.42
+Fremont,2.70
+Miami,8.75
+Colorado Springs,8.89
+Fresno,21.58
+Oklahoma City,-18.16
+Philadelphia,20.40
+Tallahassee,20.22
+Shreveport,48.21
+Modesto,4.85
+Jacksonville,46.31
+Denver,45.49
+Omaha,16.35
+Glendale,-19.95
+Chesapeake,26.17
+St. Petersburg,37.37
+Winston–Salem,-13.38
+Las Vegas,43.36
+Indianapolis,30.08
+Pittsburgh,42.88
+Oakland,29.73
+Sacramento,17.36
+Aurora,38.48
+Fort Wayne,-17.02
+Buffalo,40.37
+Raleigh,11.12
+Milwaukee,17.55
+Tallahassee,-12.96
+Pittsburgh,-25.52
+Birmingham,-14.94
+Henderson,36.18
+Winston–Salem,21.67
+Winston–Salem,-11.65
+Fresno,-7.50
+Oxnard,8.91
+Rochester,-16.88
+Atlanta,37.38
+Wichita,13.45
+Anchorage,32.06
+Augusta,4.28
+Rochester,34.73
+Shreveport,-2.92
+Jacksonville,8.93
+Fort Wayne,8.59
+Garland,27.85
+Fort Wayne,-0.36
+Laredo,40.95
+Baton Rouge,-27.53
+Reno,-14.94
+St. Louis,-6.18
+Boise,29.25
+Richmond,-6.91
+Anchorage,6.16
+Houston,19.19
+Miami,44.02
+Sacramento,2.67
+Lincoln,47.51
+Henderson,2.85
+Des Moines,1.05
+Fresno,-6.51
+Minneapolis,45.14
+San Jose,14.37
+Jacksonville,27.03
+Boise,5.97
+Cleveland,13.86
+Moreno Valley,5.80
+Tacoma,15.81
+Glendale,16.44
+Minneapolis,-4.71
+Chicago,-20.07
+Washington,44.78
+Colorado Springs,-13.09
+Frisco,27.77
+Laredo,46.64
+Bakersfield,-19.26
+Fayetteville,-29.92
+Newark,16.82
+Indianapolis,24.46
+Detroit,-24.13
+Fontana,41.35
+Long Beach,-24.92
+Oklahoma City,32.99
+Riverside,-6.19
+Santa Ana,-4.25
+Knoxville,38.29
+Norfolk,-1.78
+Gilbert,32.24
+San Bernardino,-16.23
+Albuquerque,0.66
+Henderson,-21.40
+Gilbert,-0.83
+Madison,29.43
+Boise,24.60
+Cincinnati,-17.10
+Arlington,-7.41
+Boston,15.18
+Huntington Beach,-13.55
+Arlington,43.49
+Columbus,-29.42
+Pittsburgh,-28.76
+San Jose,34.70
+Gilbert,31.11
+Tulsa,17.92
+Nashville,19.28
+Hialeah,8.51
+Irving,44.19
+San Francisco,44.68
+Oxnard,22.35
+McKinney,1.56
+Jacksonville,-22.12
+Atlanta,29.33
+Madison,48.33
+Tempe,-6.73
+Henderson,19.73
+New York,-25.05
+Tampa,0.16
+San Jose,48.94
+Orlando,-18.29
+Louisville,44.48
+Atlanta,7.76
+Tulsa,-9.04
+Port St. Lucie,-11.28
+Washington,-25.79
+Chicago,-12.89
+Philadelphia,27.35
+Huntsville,-28.68
+Fresno,-11.99
+Little Rock,1.57
+Tulsa,44.11
+Akron,-26.30
+Milwaukee,48.97
+Long Beach,30.92
+Baltimore,-29.44
+North Las Vegas,6.15
+Glendale,48.73
+Milwaukee,-28.56
+Stockton,-3.80
+Miami,-8.76
+Boise,4.19
+Bakersfield,17.44
+Overland Park,17.98
+Columbus,-16.14
+Scottsdale,30.25
+Garland,35.09
+St. Louis,36.55
+Fontana,-4.39
+Fresno,36.09
+Saint Paul,3.31
+Boise,-4.46
+Fontana,3.27
+New Orleans,-4.29
+Fresno,-14.80
+Washington,-14.97
+Oakland,40.34
+Louisville,-16.76
+Detroit,-25.80
+St. Petersburg,10.28
+Minneapolis,-5.92
+Cape Coral,45.48
+New York,30.21
+St. Petersburg,9.08
+Cincinnati,8.45
+Knoxville,48.19
+Corpus Christi,44.09
+Colorado Springs,6.11
+New York,-17.97
+Buffalo,-20.12
+Lubbock,-28.78
+Little Rock,18.43
+Toledo,16.28
+Greensboro,0.66
+Jersey City,35.15
+Henderson,-22.11
+Augusta,21.54
+Overland Park,35.10
+Glendale,47.74
+Gilbert,-22.91
+Corpus Christi,4.06
+Newark,31.93
+Toledo,9.65
+Long Beach,3.05
+Fort Wayne,-19.72
+Oklahoma City,-1.80
+Las Vegas,-19.01
+Birmingham,7.99
+Irving,-6.83
+Port St. Lucie,-7.08
+El Paso,47.51
+Detroit,30.86
+Irvine,-7.27
+Grand Prairie,23.70
+Sacramento,39.48
+Detroit,-24.72
+Buffalo,47.41
+Saint Paul,-29.21
+Seattle,48.25
+Chesapeake,-1.51
+Raleigh,2.20
+New York,0.58
+Toledo,45.37
+Shreveport,-21.04
+Augusta,-20.06
+Tallahassee,-23.16
+Hialeah,11.31
+New Orleans,16.59
+Wichita,6.00
+Dallas,4.39
+San Jose,43.52
+St. Petersburg,39.21
+Santa Ana,-27.14
+Raleigh,-16.14
+Grand Prairie,17.70
+Tallahassee,-5.68
+Oxnard,11.67
+Philadelphia,-29.29
+Shreveport,12.49
+Denver,-21.43
+Saint Paul,18.47
+Santa Clarita,10.15
+Nashville,48.92
+Moreno Valley,-21.86
+Tallahassee,2.36
+Bakersfield,48.03
+Virginia Beach,-26.97
+San Antonio,-19.30
+Birmingham,-21.82
+Scottsdale,-24.93
+Oxnard,3.86
+Cleveland,15.11
+Chicago,-14.29
+Saint Paul,-0.29
+Irvine,31.32
+St. Louis,31.18
+Portland,38.98
+Winston–Salem,-16.73
+Charlotte,-9.41
+Tampa,4.39
+Amarillo,2.08
+Corpus Christi,16.02
+Birmingham,-15.97
+Montgomery,-19.03
+Riverside,-8.16
+Des Moines,31.16
+Laredo,31.80
+Huntsville,20.58
+Saint Paul,21.25
+Seattle,47.47
+Yonkers,1.26
+Tampa,15.20
+Madison,-19.15
+Shreveport,1.33
+Laredo,12.72
+Cleveland,-15.98
+Little Rock,37.92
+Baton Rouge,-20.58
+Port St. Lucie,29.61
+Santa Ana,-25.29
+Tacoma,20.06
+Gilbert,18.00
+Santa Clarita,-10.32
+Los Angeles,19.34
+Riverside,22.09
+Fort Wayne,-26.27
+Aurora,19.40
+Boise,22.72
+Frisco,7.03
+Oxnard,0.29
+Fort Worth,20.06
+Colorado Springs,49.67
+Lincoln,-11.20
+Plano,13.68
+Chesapeake,48.17
+Toledo,41.96
+Moreno Valley,-29.09
+Chesapeake,2.04
+Glendale,15.47
+Tampa,6.80
+Oakland,-21.02
+Hialeah,18.60
+Toledo,-18.81
+Montgomery,-6.12
+Austin,-24.98
+Grand Prairie,-13.73
+Des Moines,39.27
+Buffalo,27.09
+Tempe,2.60
+Moreno Valley,48.08
+North Las Vegas,21.97
+Winston–Salem,-15.14
+San Francisco,43.34
+Gilbert,-24.01
+Tacoma,20.73
+Fremont,-3.10
+Gilbert,5.23
+Pittsburgh,38.39
+Wichita,15.39
+Memphis,21.99
+Des Moines,8.14
+Atlanta,-2.99
+Baton Rouge,19.25
+Tacoma,-23.94
+Nashville,6.61
+Columbus,-22.78
+Des Moines,22.76
+Modesto,33.96
+Yonkers,6.87
+Akron,-20.19
+Grand Rapids,12.39
+Chesapeake,-24.81
+Gilbert,6.74
+Miami,1.22
+Grand Prairie,-6.57
+New Orleans,2.82
+Frisco,-15.95
+Jacksonville,44.17
+Chula Vista,-26.44
+Glendale,6.04
+Corpus Christi,-11.49
+Oklahoma City,46.33
+Louisville,28.00
+San Bernardino,-15.77
+Toledo,-4.35
+Grand Prairie,-10.09
+Lincoln,37.38
+Akron,-6.35
+Pittsburgh,17.73
+Chesapeake,10.51
+San Bernardino,-20.67
+Scottsdale,35.06
+St. Louis,28.86
+Omaha,26.63
+Tucson,-9.45
+Philadelphia,8.15
+Houston,23.88
+Las Vegas,0.75
+Houston,9.13
+Little Rock,21.82
+Tucson,29.53
+Denver,9.97
+Amarillo,5.70
+Santa Ana,5.84
+Honolulu,18.88
+Richmond,2.49
+Anchorage,24.22
+Stockton,40.09
+Atlanta,40.05
+Glendale,11.80
+Lexington,47.59
+Oxnard,45.74
+Wichita,-2.52
+Bakersfield,16.93
+Santa Clarita,28.32
+Tulsa,-14.56
+Long Beach,22.66
+Los Angeles,31.57
+McKinney,-6.46
+Moreno Valley,-5.34
+McKinney,-18.58
+Detroit,26.19
+Orlando,-24.79
+Oakland,30.37
+Newark,1.22
+Jacksonville,26.55
+Boise,-3.48
+Jersey City,40.20
+Kansas City,-16.22
+Washington,-3.88
+Cleveland,-3.48
+Memphis,-6.55
+Miami,23.48
+Cleveland,48.14
+Seattle,1.75
+Chandler,0.76
+Columbus,31.86
+Tacoma,-10.28
+Greensboro,31.75
+Kansas City,-10.47
+Tempe,-11.22
+San Jose,-9.00
+St. Louis,-15.85
+Fayetteville,-13.80
+Portland,16.93
+Fayetteville,12.67
+Baton Rouge,9.77
+Chandler,28.26
+Glendale,-21.22
+Baton Rouge,17.21
+Jersey City,-23.13
+Portland,43.53
+Pittsburgh,-3.96
+Philadelphia,15.09
+Port St. Lucie,-0.25
+Cleveland,19.67
+Fremont,47.97
+Milwaukee,34.48
+Plano,37.52
+Washington,-19.74
+Philadelphia,39.17
+Henderson,-23.78
+Arlington,39.17
+Buffalo,47.66
+St. Louis,19.74
+Tucson,21.88
+Orlando,-15.60
+Des Moines,-1.61
+Des Moines,-24.00
+Huntsville,-25.42
+Aurora,-26.51
