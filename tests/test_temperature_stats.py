@@ -32,6 +32,10 @@ def test_get_tempreature_stats():
 
     resutls = get_tempreature_stats(file_path)
 
+    for key in expected_output:
+        assert key in resutls, f"expected {key} in output but got {list(resutls.keys())}"
+
+
     assert (
         resutls["hottest_city"] == expected_output["hottest_city"]
     ), f"[Hottest City] expected {expected_output['hottest_city']} but got {resutls['hottest_city']}"
