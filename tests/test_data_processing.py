@@ -7,13 +7,13 @@ try:
 except ImportError:
     assert False, "Cannot import save_users from data_processing.py"
 
+
 @clean_up_files
 def test_one_user() -> None:
     file_path: Path = TEST_DATA_DIR / "one_user.txt"
     save_users([{"name": "Alice", "age": 25}], file_path.as_posix())
 
     assert file_path.exists(), f"File '{file_path.name}' was not created"
-
 
     with file_path.open() as file:
         lines = file.readlines()
@@ -36,7 +36,6 @@ def test_multiple_users() -> None:
     save_users(users, file_path.as_posix())
 
     assert file_path.exists(), f"File '{file_path.name}' was not created"
-
 
     with file_path.open() as file:
         lines = file.readlines()

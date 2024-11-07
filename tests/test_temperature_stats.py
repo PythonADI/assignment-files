@@ -1,5 +1,3 @@
-import random
-from pathlib import Path
 from tests.utils import TEST_DATA_DIR, clean_up_files
 
 try:
@@ -33,8 +31,9 @@ def test_get_tempreature_stats():
     resutls = get_tempreature_stats(file_path)
 
     for key in expected_output:
-        assert key in resutls, f"expected {key} in output but got {list(resutls.keys())}"
-
+        assert (
+            key in resutls
+        ), f"expected {key} in output but got {list(resutls.keys())}"
 
     assert (
         resutls["hottest_city"] == expected_output["hottest_city"]
