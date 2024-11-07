@@ -1,34 +1,19 @@
 import random
-from typing import Callable
 from pathlib import Path
+from tests.utils import TEST_DATA_DIR, clean_up_files
 
 try:
     from src.assignment.data_processing import save_users
 except ImportError:
     assert False, "Cannot import save_users from data_processing.py"
 
-TEST_DATA_DIR = Path(__file__).parent / "data"
-DATA_DIR = Path(__file__).parent.parent / "src" / "assignment" / "data"
-
-
-def clean_up_files(func: Callable[[], None]) -> None:
-    def wrapper() -> None:
-        try:
-            TEST_DATA_DIR.mkdir(exist_ok=True)
-            func()
-        finally:
-            if TEST_DATA_DIR.exists():
-                for file in TEST_DATA_DIR.iterdir():
-                    file.unlink()
-                TEST_DATA_DIR.rmdir()
-
-    return wrapper
-
-
 @clean_up_files
 def test_one_user() -> None:
     file_path: Path = TEST_DATA_DIR / "one_user.txt"
     save_users([{"name": "Alice", "age": 25}], file_path.as_posix())
+
+    assert file_path.exists(), f"File '{file_path.name}' was not created"
+
 
     with file_path.open() as file:
         lines = file.readlines()
@@ -50,6 +35,9 @@ def test_multiple_users() -> None:
 
     save_users(users, file_path.as_posix())
 
+    assert file_path.exists(), f"File '{file_path.name}' was not created"
+
+
     with file_path.open() as file:
         lines = file.readlines()
         assert len(lines) == len(
@@ -66,6 +54,8 @@ def test_multiple_users() -> None:
 def test_no_users() -> None:
     file_path: Path = TEST_DATA_DIR / "no_users.txt"
     save_users([], file_path.as_posix())
+
+    assert file_path.exists(), f"File '{file_path.name}' was not created"
 
     with file_path.open() as file:
         lines = file.readlines()
