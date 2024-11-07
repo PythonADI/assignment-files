@@ -59,3 +59,25 @@ def test_multiple_users() -> None:
             name, age = line.strip().split(",")
             assert name in NAME_CHOICES, f"Unexpected name: {name}"
             assert 18 <= int(age) <= 65, f"Unexpected age: {age}, Age should be between 18 and 65"
+
+
+@clean_up_files
+def test_multiple_writes() -> None:
+    file_path: Path = TEST_DATA_DIR / "multiple_users.txt"
+    n = random.randint(500, 1000)
+    generate_random_users(n, file_path.as_posix())
+    n_2 = random.randint(500, 1000)
+    generate_random_users(n_2, file_path.as_posix())
+    n += n_2
+    assert file_path.exists(), f"File '{file_path.name}' was not created"
+
+    with file_path.open() as file:
+        lines = file.readlines()
+        assert len(lines) == n, f"Expected {n} users, got {len(lines)}, Make sure you are appending to the file"
+        for line in lines:
+            assert re.match(
+                r"^[A-Z][a-z]+,\d+$", line.strip()
+            ), f"Unexpected format: {line.strip()}. Expected 'Name,Age'"
+            name, age = line.strip().split(",")
+            assert name in NAME_CHOICES, f"Unexpected name: {name}"
+            assert 18 <= int(age) <= 65, f"Unexpected age: {age}, Age should be between 18 and 65"
