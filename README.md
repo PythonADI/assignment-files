@@ -57,11 +57,13 @@ Doe,35
 
 ---
 
-3. You are given a file of temperatures in [temperatures.txt](./src/assignment/temperatures.txt). Each line in the file contains a city name and a temperature separated by a comma. Complete function `get_temperature_stats` in [temperature_stats.py](./src/assignment/temperature_stats.py) that reads the file and returns a dictionary with the following keys:
+3. You are given a file of example of temperatures in [temperatures.txt](./src/assignment/temperatures.txt) (THIS IS JUST AN EXAMPLE FILE TO TEST YOURSELF). Each line in the file contains a city name and a temperature separated by a comma. Complete function `get_temperature_stats` in [temperature_stats.py](./src/assignment/temperature_stats.py) that reads the file and returns a dictionary with the following keys:
     - `hottest_city` - the city with the highest temperature
     - `coldest_city` - the city with the lowest temperature
     - `average_temperature` - the average temperature of all cities
     - `temperature_range` - the difference between the highest and lowest temperature
+
+NOTE: in test cases temperatures files will differ, so you should not hardcode the expected values.
 
 ---
 
@@ -94,13 +96,14 @@ output (return value of `get_temperature_stats`):
 
 ---
 
-4. Now we got more data about temperatures, each city might have more than one temperature, we don't know how many **BUT** there will be at least one temperature for each city. Temperatures are in [temperatures_v2.txt](./src/assignment/temperatures_v2.txt) 
-. Complete function `get_temperature_stats_v2` in [temperature_stats_v2.py](./src/assignment/temperature_stats_v2.py) that reads the file and returns a dictionary with the following keys:
+4. Now we got more data about temperatures, each city might have more than one temperature, we don't know how many **BUT** there will be at least one temperature for each city. Example is given in [temperatures_v2.txt](./src/assignment/temperatures_v2.txt) file (THIS IS JUST AN EXAMPLE FILE TO TEST YOURSELF).
+Complete function `get_temperature_stats_v2` in [temperature_stats_v2.py](./src/assignment/temperature_stats_v2.py) that reads the file and returns a dictionary with the following keys:
     - `hottest_city` - the city with the highest average temperature
     - `coldest_city` - the city with the lowest average temperature
     - `average_temperature` - the average temperature of all cities
     - `temperature_range` - the difference between the highest and lowest average temperature
 
+NOTE: in test cases temperatures files will differ, so you should not hardcode the expected values.
 HINT: use dictionary and list to store the temperatures for each city.
 
 ---
