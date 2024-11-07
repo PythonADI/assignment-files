@@ -8,7 +8,7 @@ try:
 except ImportError:
     assert (
         False
-    ), "Cannot import generate_random_users or NAME_CHOICES from data_processing.py"
+    ), "Cannot import generate_random_users or NAME_CHOICES from random_users.py"
 
 
 @clean_up_files
